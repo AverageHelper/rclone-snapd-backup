@@ -1,5 +1,5 @@
 {
-	"name": "NODE_PROJECT_TEMPLATE",
+	"name": "rclone-snapd-backup",
 	"version": "1.0.0",
 	"description": "A backup manager for snapd",
 	"main": "./lib/main.js",
@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/AverageHelper/NODE_PROJECT_TEMPLATE.git"
+		"url": "git+https://github.com/AverageHelper/rclone-snapd-backup.git"
 	},
 	"keywords": [
 		"snapd",
@@ -28,9 +28,9 @@
 	"author": "Average Helper",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/AverageHelper/NODE_PROJECT_TEMPLATE/issues"
+		"url": "https://github.com/AverageHelper/rclone-snapd-backup/issues"
 	},
-	"homepage": "https://github.com/AverageHelper/NODE_PROJECT_TEMPLATE#readme",
+	"homepage": "https://github.com/AverageHelper/rclone-snapd-backup#readme",
 	"devDependencies": {
 		"@types/jest": "^26.0.24",
 		"@types/node": "^16.4.2",
